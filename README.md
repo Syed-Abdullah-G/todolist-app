@@ -1,16 +1,19 @@
-# androidx
+# ToDo List App
 
-A new Flutter project.
+This is a simple To-Do List application built using Flutter and Hive. It allows users to create, update, and delete tasks efficiently.
+
+## Features
+
+- Create tasks with a title and optional description
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks
+- Store tasks locally using Hive, ensuring data persistence across app sessions
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this application, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
