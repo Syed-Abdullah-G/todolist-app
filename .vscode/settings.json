@@ -1,0 +1,4 @@
+{
+    "dart.hotReloadOnSave": "manual",
+    "dart.flutterHotReloadOnSave": "all"
+}

@@ -1,0 +1,1 @@
+"# todolist-app"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Syed-Abdullah-G/todolist-app.gitgit push -u origin main
