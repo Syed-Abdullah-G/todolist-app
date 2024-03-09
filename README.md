@@ -1,11 +1,59 @@
-# ToDo List App
+# Minimalistic TodoList App
 
-This is a simple To-Do List application built using Flutter and Hive. It allows users to create, update, and delete tasks efficiently.
+This is a simple TodoList app created using Flutter and Hive, featuring create, complete, and delete functionality.
 
 ## Features
 
-- Create tasks with a title and optional description
-- Mark tasks as completed
-- Edit existing tasks
-- Delete tasks
-- Store tasks locally using Hive, ensuring data persistence across app sessions
+- **Create**: Add new tasks to your todo list.
+- **Complete**: Mark tasks as completed.
+- **Delete**: Remove tasks from the list.
+
+## Getting Started
+
+To get started with this project, you'll need to have Flutter installed. If you haven't already, you can download and install Flutter from the [official Flutter website](https://flutter.dev/docs/get-started/install).
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Syed-Abdullah-G/todolist-app.git
+```
+
+2. Navigate into the directory:
+
+```bash
+cd todolist-app
+```
+
+3. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+4. Run the app:
+
+```bash
+flutter run
+```
+
+## Usage
+
+1. **Add Task**: Tap on the "+" button to add a new task.
+2. **Complete Task**: Tap on a task to mark it as completed.
+3. **Delete Task**: Swipe left on a task to delete it.
+
+
+## Want to Contribute ?
+
+If you found an issue or would like to submit an improvement to this project, please submit an issue using the issues tab above. If you would like to submit a PR with a fix, reference the issue you created!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- This project was inspired by the need for a simple and minimalistic TodoList app.
+- Special thanks to the Flutter and Hive communities for their amazing contributions and support.
