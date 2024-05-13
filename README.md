@@ -3,13 +3,12 @@
 **Screenshots:**
 <!-- Row 1 -->
 <p float="left">
-  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot1.png" width="400" />
-  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot2.png" width="400" />
+  <img src="https://github.com/Syed-Abdullah-G/todolist-app/blob/master/WhatsApp%20Image%202024-05-13%20at%209.20.20%20PM.jpeg?raw=true" width="400" />
+  <img src="https://github.com/Syed-Abdullah-G/todolist-app/blob/master/WhatsApp%20Image%202024-05-13%20at%209.20.21%20PM(1).jpeg?raw=true" width="400" />
 </p>
 <!-- Row 2 -->
 <p float="left">
-  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot3.png" width="400" />
-  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot4.png" width="400" />
+  <img src="https://github.com/Syed-Abdullah-G/todolist-app/blob/master/WhatsApp%20Image%202024-05-13%20at%209.20.21%20PM.jpeg?raw=true" width="400" />
 </p>
 
 
