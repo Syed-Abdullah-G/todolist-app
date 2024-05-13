@@ -1,5 +1,18 @@
 # Minimalistic TodoList App
 
+**Screenshots:**
+<!-- Row 1 -->
+<p float="left">
+  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot1.png" width="400" />
+  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot2.png" width="400" />
+</p>
+<!-- Row 2 -->
+<p float="left">
+  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot3.png" width="400" />
+  <img src="https://github.com/your_username/your_repository/blob/main/screenshots/screenshot4.png" width="400" />
+</p>
+
+
 This is a simple TodoList app created using Flutter and Hive, featuring create, complete, and delete functionality.
 
 ## Features
